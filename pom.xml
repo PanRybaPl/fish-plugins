@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>pl.panryba</groupId>
+    <artifactId>plugins</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>fish-factions</module>
+        <module>fish-hardcore</module>
+        <module>fish-db</module>
+        <module>fish-pl</module>
+        <module>fish-ranking</module>
+        <module>fish-auth</module>
+        <module>fish-contests</module>
+        <module>fish-recipes</module>
+        <module>fish-parkour</module>
+        <module>fish-heads</module>
+        <module>fish-ban</module>
+        <module>fish-cannon</module>
+        <module>fish-filter</module>
+        <module>fish-cobble</module>
+        <module>fish-spawn</module>
+        <module>fish-motd</module>
+        <module>fish-disabledcmds</module>
+        <module>fish-explode</module>
+        <module>fish-perms</module>
+        <module>fish-chat</module>
+        <module>fish-food</module>
+        <module>fish-swap</module>
+        <module>fish-live</module>
+        <module>fish-duels</module>
+        <module>fish-fix</module>
+        <module>fish-gifts</module>
+        <module>fish-sets</module>
+        <module>fish-wallet</module>
+        <module>fish-shop</module>
+        <module>fish-markcreative</module>
+        <module>fish-stonedrop</module>
+    </modules>
+
+</project>

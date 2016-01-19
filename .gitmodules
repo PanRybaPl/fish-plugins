@@ -1,0 +1,102 @@
+[submodule "fish-auth"]
+	path = fish-auth
+	url = https://github.com/PanRybaPl/fish-auth
+[submodule "fish-ban"]
+	path = fish-ban
+	url = https://github.com/PanRybaPl/fish-ban
+[submodule "fish-broadcast"]
+	path = fish-broadcast
+	url = https://github.com/PanRybaPl/fish-broadcast
+[submodule "fish-cannon"]
+	path = fish-cannon
+	url = https://github.com/PanRybaPl/fish-cannon
+[submodule "fish-cobble"]
+	path = fish-cobble
+	url = https://github.com/PanRybaPl/fish-cobble
+[submodule "fish-contests"]
+	path = fish-contests
+	url = https://github.com/PanRybaPl/fish-contests
+[submodule "fish-db"]
+	path = fish-db
+	url = https://github.com/PanRybaPl/fish-db
+[submodule "fish-disabledcmds"]
+	path = fish-disabledcmds
+	url = https://github.com/PanRybaPl/fish-disabledcmds
+[submodule "fish-duels"]
+	path = fish-duels
+	url = https://github.com/PanRybaPl/fish-duels
+[submodule "fish-explode"]
+	path = fish-explode
+	url = https://github.com/PanRybaPl/fish-explode
+[submodule "fish-factions"]
+	path = fish-factions
+	url = https://github.com/PanRybaPl/fish-factions
+[submodule "fish-filter"]
+	path = fish-filter
+	url = https://github.com/PanRybaPl/fish-filter
+[submodule "fish-fix"]
+	path = fish-fix
+	url = https://github.com/PanRybaPl/fish-fix
+[submodule "fish-food"]
+	path = fish-food
+	url = https://github.com/PanRybaPl/fish-food
+[submodule "fish-gifts"]
+	path = fish-gifts
+	url = https://github.com/PanRybaPl/fish-gifts
+[submodule "fish-hardcore"]
+	path = fish-hardcore
+	url = https://github.com/PanRybaPl/fish-hardcore
+[submodule "fish-heads"]
+	path = fish-heads
+	url = https://github.com/PanRybaPl/fish-heads
+[submodule "fish-live"]
+	path = fish-live
+	url = https://github.com/PanRybaPl/fish-live
+[submodule "fish-markcreative"]
+	path = fish-markcreative
+	url = https://github.com/PanRybaPl/fish-markcreative
+[submodule "fish-motd"]
+	path = fish-motd
+	url = https://github.com/PanRybaPl/fish-motd
+[submodule "fish-parkour"]
+	path = fish-parkour
+	url = https://github.com/PanRybaPl/fish-parkour
+[submodule "fish-perms"]
+	path = fish-perms
+	url = https://github.com/PanRybaPl/fish-perms
+[submodule "fish-pl"]
+	path = fish-pl
+	url = https://github.com/PanRybaPl/fish-pl
+[submodule "fish-quitjoin"]
+	path = fish-quitjoin
+	url = https://github.com/PanRybaPl/fish-quitjoin
+[submodule "fish-ranking"]
+	path = fish-ranking
+	url = https://github.com/PanRybaPl/fish-ranking
+[submodule "fish-recipes"]
+	path = fish-recipes
+	url = https://github.com/PanRybaPl/fish-recipes
+[submodule "fish-sets"]
+	path = fish-sets
+	url = https://github.com/PanRybaPl/fish-sets
+[submodule "fish-shop"]
+	path = fish-shop
+	url = https://github.com/PanRybaPl/fish-shop
+[submodule "fish-spawn"]
+	path = fish-spawn
+	url = https://github.com/PanRybaPl/fish-spawn
+[submodule "fish-sponge"]
+	path = fish-sponge
+	url = https://github.com/PanRybaPl/fish-sponge
+[submodule "fish-stonedrop"]
+	path = fish-stonedrop
+	url = https://github.com/PanRybaPl/fish-stonedrop
+[submodule "fish-swap"]
+	path = fish-swap
+	url = https://github.com/PanRybaPl/fish-swap
+[submodule "fish-wallet"]
+	path = fish-wallet
+	url = https://github.com/PanRybaPl/fish-wallet
+[submodule "fish-chat"]
+	path = fish-chat
+	url = https://github.com/PanRybaPl/fish-chat

@@ -10,37 +10,40 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>fish-factions</module>
-        <module>fish-hardcore</module>
-        <module>fish-db</module>
-        <module>fish-pl</module>
-        <module>fish-ranking</module>
-        <module>fish-auth</module>
-        <module>fish-contests</module>
-        <module>fish-recipes</module>
-        <module>fish-parkour</module>
-        <module>fish-heads</module>
-        <module>fish-ban</module>
-        <module>fish-cannon</module>
-        <module>fish-filter</module>
-        <module>fish-cobble</module>
-        <module>fish-spawn</module>
-        <module>fish-motd</module>
-        <module>fish-disabledcmds</module>
-        <module>fish-explode</module>
-        <module>fish-perms</module>
-        <module>fish-chat</module>
-        <module>fish-food</module>
-        <module>fish-swap</module>
-        <module>fish-live</module>
-        <module>fish-duels</module>
-        <module>fish-fix</module>
-        <module>fish-gifts</module>
-        <module>fish-sets</module>
-        <module>fish-wallet</module>
-        <module>fish-shop</module>
-        <module>fish-markcreative</module>
-        <module>fish-stonedrop</module>
+      <module>fish-auth</module>
+      <module>fish-ban</module>
+      <module>fish-broadcast</module>
+      <module>fish-cannon</module>
+      <module>fish-chat</module>
+      <module>fish-cobble</module>
+      <module>fish-contests</module>
+      <module>fish-db</module>
+      <module>fish-disabledcmds</module>
+      <module>fish-duels</module>
+      <module>fish-explode</module>
+      <module>fish-factions</module>
+      <module>fish-filter</module>
+      <module>fish-fix</module>
+      <module>fish-food</module>
+      <module>fish-gifts</module>
+      <module>fish-hardcore</module>
+      <module>fish-heads</module>
+      <module>fish-live</module>
+      <module>fish-markcreative</module>
+      <module>fish-motd</module>
+      <module>fish-parkour</module>
+      <module>fish-perms</module>
+      <module>fish-pl</module>
+      <module>fish-quitjoin</module>
+      <module>fish-ranking</module>
+      <module>fish-recipes</module>
+      <module>fish-sets</module>
+      <module>fish-shop</module>
+      <module>fish-spawn</module>
+      <module>fish-sponge</module>
+      <module>fish-stonedrop</module>
+      <module>fish-swap</module>
+      <module>fish-wallet</module>
     </modules>
 
 </project>
